@@ -1,0 +1,9 @@
+Azure Search Service
+searchServiceName = "azrsrchpicturebot";
+queryApiKey = "3EFDF8723B5DC55061A571587392B70D";
+indexName = "images";
+
+
+LUIS : - 
+// Get LUIS information
+var luisApp = new LuisApplication("43b73884-3bb2-4ddf-a801-9d64f180d94c", "eab03dbe739546539cb46ab2ebbd9339", "https://westus.api.cognitive.microsoft.com/");
